@@ -32,7 +32,7 @@ To run the project locally on your computer, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/L1edge/my-logic-sim.git](https://github.com/ВАШ_ЮЗЕРНЕЙМ/my-logic-sim.git)
+   git clone [https://github.com/L1edge/my-logic-sim.git](https://github.com/L1edge/my-logic-sim.git)
    cd my-logic-sim
     ```
 2.  **Install dependencies:**
@@ -44,7 +44,7 @@ To run the project locally on your computer, follow these steps:
     ```bash
     npm run dev
     ```
-4.  **Open your browser** and navigate to: `http://localhost:5173`
+4.  **Open your browser** and navigate to: `(https://logicsim-nine.vercel.app/)`
 
 -----
 
@@ -90,7 +90,7 @@ LogicSim — це сучасне кросплатформне веб-серед�
     Клонуйте репозиторій:
     Bash
 
-    git clone [https://github.com/L1edge/my-logic-sim.git](https://github.com/ВАШ_ЮЗЕРНЕЙМ/my-logic-sim.git)
+    git clone [https://github.com/L1edge/my-logic-sim.git](https://github.com/L1edge/my-logic-sim.git)
     cd my-logic-sim
 
     Встановіть залежності:
@@ -104,7 +104,7 @@ LogicSim — це сучасне кросплатформне веб-серед�
 
     npm run dev
 
-    Відкрийте браузер і перейдіть за адресою: http://localhost:5173
+    Відкрийте браузер і перейдіть за адресою: https://logicsim-nine.vercel.app/
 -----
 
 <a id="polski"></a> 🇵🇱 Polski
@@ -149,7 +149,7 @@ Aby uruchomić projekt lokalnie na swoim komputerze, wykonaj następujące kroki
     Sklonuj repozytorium:
     Bash
 
-    git clone [https://github.com/L1edge/my-logic-sim.git](https://github.com/ВАШ_ЮЗЕРНЕЙМ/my-logic-sim.git)
+    git clone [https://github.com/L1edge/my-logic-sim.git](https://github.com/L1edge/my-logic-sim.git)
     cd my-logic-sim
 
     Zainstaluj zależności:
@@ -163,4 +163,4 @@ Aby uruchomić projekt lokalnie na swoim komputerze, wykonaj następujące kroki
 
     npm run dev
 
-    Otwórz przeglądarkę i przejdź pod adres: http://localhost:5173
+    Otwórz przeglądarkę i przejdź pod adres: https://logicsim-nine.vercel.app/
